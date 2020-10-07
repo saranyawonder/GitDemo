@@ -21,5 +21,7 @@ public void Test()
 {
 	System.out.println("Testing");
 	System.out.println("web testing");
+	System.out.println("Testing");
+	System.out.println("web testing");
 }
 }
