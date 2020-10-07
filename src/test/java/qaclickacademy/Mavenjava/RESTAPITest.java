@@ -7,6 +7,9 @@ public class RESTAPITest {
 	public void Sample1()
 	{
 		System.out.println("Altering the files to understand GIT push and pull");
+		System.out.println("Altering the files to understand GIT push and pull");
+		System.out.println("Altering the files to understand GIT push and pull");
+		System.out.println("Altering the files to understand GIT push and pull");
 	}
 
 	@Test
