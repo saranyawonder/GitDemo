@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="77" started-at="2020-09-22T10:50:00Z" finished-at="2020-09-22T10:50:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="77" started-at="2020-09-22T10:50:00Z" finished-at="2020-09-22T10:50:00Z">
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="IOSTest()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@157632c9]" name="IOSTest" duration-ms="1" started-at="2020-09-22T10:50:00Z" finished-at="2020-09-22T10:50:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSTest -->
+        <test-method status="PASS" signature="NativeAPPTest()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@157632c9]" name="NativeAPPTest" duration-ms="0" started-at="2020-09-22T10:50:00Z" finished-at="2020-09-22T10:50:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPPTest -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumTest -->
+      <class name="qaclickacademy.Mavenjava.RESTAPITest">
+        <test-method status="PASS" signature="Sample1()[pri:0, instance:qaclickacademy.Mavenjava.RESTAPITest@36f0f1be]" name="Sample1" duration-ms="11" started-at="2020-09-22T10:50:00Z" finished-at="2020-09-22T10:50:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1 -->
+        <test-method status="PASS" signature="Sample2()[pri:0, instance:qaclickacademy.Mavenjava.RESTAPITest@36f0f1be]" name="Sample2" duration-ms="0" started-at="2020-09-22T10:50:00Z" finished-at="2020-09-22T10:50:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2 -->
+      </class> <!-- qaclickacademy.Mavenjava.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
