@@ -15,4 +15,11 @@ public void UIElemnets()
 {
 	
 }
+
+@Test
+public void Test()
+{
+	System.out.println("Testing");
+	System.out.println("web testing");
+}
 }

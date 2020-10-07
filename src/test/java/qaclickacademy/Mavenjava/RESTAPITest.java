@@ -17,4 +17,10 @@ public class RESTAPITest {
 	{
 		System.out.println("This is code that Y imported X code and working");
 	}
+	
+	@Test
+	public void Sample3()
+	{
+		System.out.println("This is code that Y imported X code and working22222");
+	}
 }
